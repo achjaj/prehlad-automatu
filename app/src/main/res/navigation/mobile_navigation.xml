@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:id="@+id/mobile_navigation"
+            app:startDestination="@+id/nav_map">
+
+    <fragment
+            android:id="@+id/nav_map"
+            android:name="com.achjaj.covidautomat2.ui.map.MapFragment"
+            android:label="@string/menu_map"
+            tools:layout="@layout/fragment_map"/>
+
+    <fragment
+            android:id="@+id/nav_regions"
+            android:name="com.achjaj.covidautomat2.ui.regions.RegionsFragment"
+            android:label="@string/menu_regions"
+            tools:layout="@layout/fragment_regions"/>
+
+    <fragment
+        android:id="@+id/nav_about"
+        android:name="com.achjaj.covidautomat2.ui.about.AboutFragment"
+        android:label="@string/about"
+        tools:layout="@layout/about_page" />
+</navigation>

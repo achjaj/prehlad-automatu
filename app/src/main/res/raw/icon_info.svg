@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="78.940598mm"
+   height="78.940598mm"
+   viewBox="0 0 78.940598 78.940598"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="icon_info.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.60399832"
+     inkscape:cx="362.58379"
+     inkscape:cy="306.29224"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="-363.8145"
+       y="139.38518"
+       width="792.08332"
+       height="622.2405"
+       id="rect5538" />
+  </defs>
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-52.833427,-67.403122)">
+    <circle
+       style="fill:#45a9ed;fill-opacity:1;stroke:none;stroke-width:2.95799;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:1.13386"
+       id="path1156"
+       cx="92.303726"
+       cy="106.87342"
+       r="39.470299" />
+    <g
+       aria-label="i"
+       transform="matrix(0.26458333,0,0,0.26458333,181.49363,44.346489)"
+       id="text5536"
+       style="font-size:192px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5538);fill:#ffffff">
+      <path
+         d="m -345.7207,204.25977 h 17.25 v 105 h -17.25 z m 0,-40.875 h 17.25 v 21.84375 h -17.25 z"
+         id="path825" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg2241"
+   sodipodi:version="0.32"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   width="413.48932"
+   height="412.73718"
+   version="1.0"
+   sodipodi:docname="main_icon.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:modified="true"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata2246">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2244">
+    <rect
+       x="138.38707"
+       y="77.854401"
+       width="260.64722"
+       height="248.85048"
+       id="rect9610" />
+    <marker
+       style="overflow:visible"
+       id="DotL"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotL"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path4083" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="1080"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="1.3934381"
+     inkscape:cx="170.80055"
+     inkscape:cy="220.31836"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:current-layer="svg2241"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <rect
+     style="fill:#e05e47;fill-opacity:1;stroke:none;stroke-width:9.612;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:1.13386;stroke-opacity:1;paint-order:markers stroke fill"
+     id="rect3288"
+     width="413.48932"
+     height="412.73718"
+     x="0"
+     y="0"
+     ry="60.381756" />
+  <g
+     id="g4"
+     transform="matrix(2.505522,0,0,2.505522,46.391251,46.015183)"
+     style="fill:#ffffff;fill-opacity:1">
+    <path
+       d="M 64,0 C 39.699,0 20,19.699 20,44 c 0,24.301 44,84 44,84 0,0 44,-59.699 44,-84 C 108,19.699 88.301,0 64,0 Z M 28,44 C 28,24.148 44.148,8 64,8 83.852,8 100,24.148 100,44 100,57.828 79.992,91.211 64,114.238 48.008,91.211 28,57.828 28,44 Z"
+       fill="#e53935"
+       id="path2"
+       sodipodi:nodetypes="sscssssscs"
+       style="fill:#ffffff;fill-opacity:1" />
+  </g>
+  <g
+     aria-label="!"
+     transform="translate(29.873561,5.924343)"
+     id="text9608"
+     style="font-size:192px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect9610);fill:#ffffff;fill-opacity:1">
+    <path
+       d="m 167.35547,223.91602 h 19.03125 v 23.8125 h -19.03125 z m 0,-116.15625 h 19.03125 v 61.40625 l -1.875,33.46875 h -15.1875 l -1.96875,-33.46875 z"
+       style="font-size:192px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect9610);fill:#ffffff;fill-opacity:1"
+       id="path17930" />
+  </g>
+</svg>
