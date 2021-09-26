@@ -29,7 +29,7 @@
     <string name="email">bucko.jakub@protonmail.com</string>
     <string name="lib_lecenses_title">Licencie knižníc</string>
     <string name="github_title">Zdrojový kód</string>
-    <string name="github">TODO</string>
+    <string name="github">achjaj/prehlad-automatu</string>
 
     <string name="about_text">
         &lt;h1&gt;&appname;&lt;/h1&gt;
